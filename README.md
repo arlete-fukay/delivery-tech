@@ -1,4 +1,4 @@
-# 🚀 Delivery API
+# 🚀 Delivery API - Arlete
 
 API backend desenvolvida em **Java 21** com **Spring Boot 3.2.x**, como base para um sistema de delivery moderno, escalável e de fácil manutenção.
 
